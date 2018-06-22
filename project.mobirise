@@ -383,7 +383,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/aguia-haia-fachada-v01-2000x2500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -419,7 +419,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/untitled-3-3-2000x988.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
